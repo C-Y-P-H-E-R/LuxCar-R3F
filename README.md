@@ -1,4 +1,4 @@
-[Image.png]
+![Project ScreenShot](./Image.png)
 
 # Getting Started with Create React App
 
